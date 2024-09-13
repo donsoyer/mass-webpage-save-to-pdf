@@ -1,4 +1,6 @@
 Change path of the output_folder    
+You will need:
+python, wkhtmltox, chromedriver (google chrome or chrome for testing)
 
     # mass-webpage-save-to-pdf
     save multiple websites as pdf files
