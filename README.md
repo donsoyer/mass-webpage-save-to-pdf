@@ -1,4 +1,5 @@
-    
+Change path of the output_folder    
+
     # mass-webpage-save-to-pdf
     save multiple websites as pdf files
     import os
@@ -9,7 +10,7 @@
     import pdfkit
     
     # Path settings
-    output_folder = r'C:\Users\USER\Downloads\str'
+    output_folder = r'C:\str'
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
     
